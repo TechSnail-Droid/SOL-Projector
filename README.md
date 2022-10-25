@@ -7,7 +7,7 @@ I used python to visualize the dramatic drops in SOLANA because it is the crypto
 Using the pandas module I was able to create a basic graph of how SOLANA has changed within its lifespan starting in 2020.
 
 <img width="1113" alt="Screen Shot 2022-10-25 at 7 56 30 AM" src="https://user-images.githubusercontent.com/107436055/197767432-c5a72bf1-0e77-41b4-8da2-b434bc92a224.png">
-Using the prophet module, I created a predictive graph that predicts how SOLANA will change in the coming year. This is a very basic sort of model so the accuracy is not in stone but it does give a good visualization to how SOLANA has fluctuated and its viabilitty as a cryptocurrency. 
+Using the prophet module, I created a predictive graph that predicts how SOLANA will change in the coming year. This is a very basic sort of model so the accuracy is not in stone but it does give a good visualization to how SOLANA has fluctuated and its viability as a cryptocurrency. 
 
 <img width="1100" alt="Screen Shot 2022-10-25 at 7 56 55 AM" src="https://user-images.githubusercontent.com/107436055/197767690-04ecaac6-c5a1-43c7-a574-8be3211aec15.png">
 Lastly, using the prophet module I created several graphs showing the different time tables of SOLANA but in a more focused perspective.
