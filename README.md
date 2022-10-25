@@ -1,5 +1,5 @@
 # SOL-Projector
-Data analyst view of SOL as it was one of the hottest NFT/bitcoin esque. Using python I used the pandas and the prophet modules to create a basic projector onto the oncoming future of SOL and its merit
+Data analyst view of SOL as it was one of the hottest crytpcurencies. Using python I used the pandas and the prophet modules to create a basic projector onto the oncoming future of SOL and its merit.
 I love looking at data and trying to grab more insight into what this particular set of data could mean when applied to the future and the mass population of people.
 These past few years products such as NFTS and Bitcoin skyrocketed as well as plummeted just as hard. I am heavily interested in how the stock market fluctuates specifically with tech based products.
 I used python to visualize the dramatic drops in SOLANA because it is the cryptocurrency I know the most about when compared to the others (Etherium, Bitcoin, etc)
